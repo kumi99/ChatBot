@@ -1,7 +1,9 @@
 # Mental Health Therapy Chatbot
 
+Demo: streamlit link
+
 ## Overview
-This repository hosts the source code for a Mental Health Therapy Chatbot, designed to provide accessible and immediate support for individuals struggling with mental health issues. Developed during the challenging times of the COVID-19 pandemic, this chatbot offers a private, user-friendly platform for individuals to receive mental health support and companionship.
+This repository hosts the source code for a Mental Health Therapy Chatbot, designed to provide accessible and immediate support for individuals struggling with mental health issues. Developed for the isolated individuals who went through mental challanges during the COVID-19 pandemic. 
 
 ## Features
 - **Text-Based Interaction**: Users can interact with the chatbot through simple text inputs, receiving text-based responses.
@@ -39,14 +41,3 @@ Contributions to this project are welcome. Here are some ways you can contribute
 - Reporting bugs
 - Suggesting enhancements
 - Pull requests
-
-Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-
-## Acknowledgments
-
-- Kumari Herath, for initiating and leading the development of this valuable tool.
-- All contributors who have helped in refining and expanding the chatbot's capabilities.
